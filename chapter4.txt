@@ -1,0 +1,1 @@
+ It is the largest independent unit of grammar, representing a thought, statement, question, or command.
